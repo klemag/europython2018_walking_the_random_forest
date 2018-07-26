@@ -1,0 +1,5 @@
+venv/
+*.zip
+Dataset/
+.ipynb_checkpoints/
+catboost_info/

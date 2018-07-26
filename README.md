@@ -1,2 +1,3 @@
-# europython2018_walking_the_random_forest
+# Walking the Random Forest and Boosting the Trees
+
 Europython 2018
